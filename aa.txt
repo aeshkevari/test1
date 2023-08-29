@@ -7,4 +7,9 @@ kvjda;k
 
 aaa
 
+<<<<<<< HEAD
+
+ertretertert
+=======
 asdadasd 
+>>>>>>> 68fb37042a982cc23221e723240e3b5606b8a195
