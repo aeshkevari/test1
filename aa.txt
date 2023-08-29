@@ -1,2 +1,6 @@
 asa
+<<<<<<< Updated upstream
 ssss
+=======
+kvjda;k
+>>>>>>> Stashed changes
